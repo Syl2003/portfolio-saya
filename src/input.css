@@ -4,6 +4,8 @@
 
 body {
     font-family: 'Inter', sans-serif;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
 }
 
 .navbar-fixed {
